@@ -1,0 +1,19 @@
+{
+  "name": "sevenletters",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pier1/sevenletters.git"
+  },
+  "author": "Pier 1 Imports, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pier1/sevenletters/issues"
+  },
+  "homepage": "https://github.com/Pier1/sevenletters#readme"
+}
